@@ -1,6 +1,6 @@
 # mju_notice_scrapper
 
-mju notice scrapping tool, with lambda_selenium_docker
+mju notice scraping tool, with lambda_selenium_docker
 
 Scrapping Tool ver 0.1 of headless chrome and selenium on container image on AWS Lambda
 
